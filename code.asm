@@ -24,7 +24,7 @@ Operation   equ 33h     ; Operator Memory Location
 temp2       equ 34h     ; temporary Location 2 
 	
 
-; initilize program origne to 0x0000
+; initilize program origin to 0x0000
 ORG 0
 
 ;---------------------------------------------------------------------------;
